@@ -13,7 +13,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 ### Links
 
-[Link to the deployed website](https://pkriengsiri.github.io/horiseon-code-refactor/)
+[Link to the deployed website](https://gkigongo.github.io/sturdy-fiesta/)
 
 [Link to the code repository](https://github.com/gkigongo/sturdy-fiesta)
 
@@ -23,4 +23,4 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
 
 ![screenshot of index.html](./assets/images/horiseon1.png)
-![screenshot of index.html](./assets/images/horiseon2.png)
+![screenshot of index.html](./assets/images/horiseon2.png)git
