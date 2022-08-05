@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Here the original CSS class .header has been replaced with the semantic HTML <header> element. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* div under header replaced with semantic <nav>  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,15 +50,6 @@ a {
 
 p {
     font-size: 16px;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {

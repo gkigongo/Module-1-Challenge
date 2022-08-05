@@ -8,8 +8,10 @@
 </head>
 
 <body>
+    <!-- .header class has been replaced with a semantic <header> element. -->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
+        <!-- div under header replaced with semantic <nav> -->
         <nav>
             <ul>
                 <li>
@@ -25,9 +27,12 @@
         </nav>
     </header>
     
-    <!-- <div class="hero"></div> -->
+    <!-- The .hero CSS class has been been replaced with an <img> tag in this refactor. This allows the background image to take on an alt text, seen below. The refactored image 
+    is slightly different from the original CSS but now carries the advantage of accessibility. -->
     <img src="./assets/images/digital-marketing-meeting.jpg" alt="Digital marketing specialists collaborating to solve a problem" height="800" width= "100%">
-    
+
+    <!-- .content class has been replaced with the semantic <main> element. The subclasses .search-engine-optimization, .online-reputation-management, and .social-media-marketing are 
+        now semantic <sections> -->
     <main>
         <section id="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="" />
@@ -52,6 +57,7 @@
         </section>
     </main>
     
+    <!-- .benefits class has been replaced with semantic <aside> element. Subclasses .benefit-lead, .benefit-brand, and .benefit-cost are now <sections>. -->
     <aside>
         <section id="benefit-lead">
             <h3>Lead Generation</h3>
