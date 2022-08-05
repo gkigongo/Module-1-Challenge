@@ -20,7 +20,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 ## Usage
 
-Once deployed the application can be viewed in a traditional desktop web browser.  It it not yet optimized for smaller screens.
+Once deployed the application can be viewed in a traditional desktop web browser.  It is not yet optimized for smaller screens.
 
 ![screenshot of index.html](./assets/images/horiseon1.png)
-![screenshot of index.html](./assets/images/horiseon2.png)git
+![screenshot of index.html](./assets/images/horiseon2.png)
